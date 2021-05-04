@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JonyWinner&repo=device_xiaomi_phoenix)](https://github.com/JonyWinner/device_xiaomi_phoenix)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonyWinner&layout=compact)](https://github.com/JonyWinner/device_xiaomi_phoenix)
+![JonyWinner's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonyWinner&show_icons=true&theme=onedark)
+
