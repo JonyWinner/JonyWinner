@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JonyWinner&repo=Auto-Build-System)](https://github.com/JonyWinner/Auto-Build-System)
+![card](https://github.com/JonyWinner/netease-music-card/blob/main/card.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonyWinner&layout=compact)](https://github.com/JonyWinner/Auto-Build-System)
 ![JonyWinner's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonyWinner&show_icons=true&theme=onedark)
 
